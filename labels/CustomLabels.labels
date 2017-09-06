@@ -12,7 +12,7 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>AllItems</shortDescription>
-        <value>All Items</value>
+        <value>All Items A</value>
     </labels>
     <labels>
         <fullName>AllOpenTasks</fullName>
